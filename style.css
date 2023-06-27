@@ -25,6 +25,10 @@ a {
   max-width: 940px;
 }
 
+.team{
+  overflow: hidden;
+}
+
 ul {
   list-style-type: none;
 }
