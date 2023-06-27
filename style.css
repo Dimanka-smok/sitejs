@@ -84,7 +84,7 @@ ul {
 }
 
 .container-flex2 {
-  background-image: url("/img/imginsection1.png");
+  background-image: url("imginsection1.png");
   height: 594px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -478,44 +478,44 @@ ul {
 }
 
 .span {
-  content: url("/img/Rectangle.png");
+  content: url("Rectangle.png");
 }
 
 .span2 {
-  content: url("/img/Rectangle.png");
+  content: url("Rectangle.png");
   position: relative;
 }
 
 .spant {
-  content: url("/img/twit.png");
+  content: url("twit.png");
   position: relative;
   display: inline-block;
   top: 3px;
 }
 
 .spanf {
-  content: url("/img/face.png");
+  content: url("face.png");
   position: relative;
   display: inline-block;
   top: 3px;
 }
 
 .spanp {
-  content: url("/img/pint.png");
+  content: url("pint.png");
   position: relative;
   display: inline-block;
   top: 3px;
 }
 
 .spang {
-  content: url("/img/google.png");
+  content: url("google.png");
   position: relative;
   display: inline-block;
   top: 3px;
 }
 
 .spanw {
-  content: url("/img/web.png");
+  content: url("web.png");
   position: relative;
   display: inline-block;
   top: 3px;
